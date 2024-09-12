@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slider{
+    background-image: url(../../public/images/bg2.jpg);
+    height: 80vh;
+    width: 100%;
+    /* background-image: fixed; */
+      
+}
+.slide h3{
+    color: #ffffff;
+    text-align: center;
+    transform: translateY(50%);
+    font-size: 80px;
+    font-weight: 700;
+}
+.slidee h2{
+    color: #ffffff;
+    margin-top: 8rem;
+    text-align: center;
+    letter-spacing: .2rem;
+    font-weight: 600;
+}
+.book-now{
+    color: #ffffff;
+    background-color: rgb(103, 247, 199);
+    width: 13rem;
+    height: 4rem;
+    letter-spacing: .2rem;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 43%;
+    border-radius: 8px;
+    font-weight:700;
+    margin-top: 1.5rem;
+
+}
+.book-now:hover{
+    color: #000000;
+    background-color: rgb(189, 244, 226);    
+}

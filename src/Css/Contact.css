@@ -1,0 +1,82 @@
+.contact{
+    background-color: rgb(17, 17, 48);
+    color: #ffffff;
+    text-align: center;
+    /* z-index: 1; */
+}
+.head1{
+    color: rgb(103, 247, 199);
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 700;
+    margin-left: 6.5rem;
+}
+.contact-header{
+    letter-spacing: .3rem;
+    h1{
+        font-size: 3rem;
+        font-weight: 700;
+    }
+}
+.head2{
+    color: rgb(103, 247, 199);
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 700;
+    margin-right: 4.6rem;
+}
+.row{
+    /* margin-top: 2rem; */
+    gap: 2rem;
+h5{
+    letter-spacing: .2rem;
+}
+.map{
+    margin-top: 2rem;
+}}
+.contactForm{
+    margin-top:2rem ;
+}
+
+.form{
+    background-color: #ffffff;
+    width: 100%;
+    height: 58vh;
+    /* box-shadow: 3px 3px 3px #ffffff; */
+    border-radius: 5px;
+}
+.cntc-form input{
+    margin-top: 1rem;
+    width: 90%;
+    background-color: #ffffff;
+    color: #000;
+    border: none;
+    background-color: rgb(103, 247, 199);
+    padding: 10px;
+}
+.contactt-form input{
+    margin-top: 1rem;
+    width: 90%;
+    height: 5rem;
+    border: none;
+    color: #000;
+    border-color:  #ffffff;
+    background-color: rgb(103, 247, 199);
+    padding: 10px;
+   
+
+}
+.btn-submit{
+    /* margin-left: 19rem; */
+    margin-top: 1rem;
+    background-color: rgb(17, 17, 48) ;
+    color: #ffffff;
+    width: 5rem ;
+    box-shadow: rgba(217, 15, 15, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+
+.cntc{
+    height: 10vh;
+}
+
+

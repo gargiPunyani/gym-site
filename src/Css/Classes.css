@@ -1,0 +1,69 @@
+.class1 {
+        color: yellow;
+        font-size: 4rem;
+        text-align: center;
+        font-weight: 700;
+        margin-left: 6.5rem;
+}
+.class2 {
+        color: yellow;
+        font-size: 4rem;
+        text-align: center;
+        font-weight: 700;
+        margin-right: 4.6rem;
+}
+.class {
+    background-color:rgb(17, 17, 48);
+}
+.class h1{
+    color: #fff;
+}
+.classes{
+    margin-top: 3rem;
+    text-align: center;
+    margin-left: 4rem;
+}
+.classess {
+    width: 100%;
+    margin-top: 4rem;
+    gap: 5rem;
+    /* border-bottom: 1px solid #000; */
+}
+.classess h6{
+    text-align: left;
+    font-size: 20px;
+    font-weight: 650;
+    
+
+}
+.classess img{
+    border-radius: 50%;   
+    /* align-content: flex-end; */
+    height: 6rem;
+    margin-left: 8rem;
+}
+.classess p{
+    text-align: left;
+    margin-top: 1rem;
+    /* font-size:18px ; */
+}
+.books{
+    border-radius: 20px;
+    color: #fff;
+    background-color: rgb(17, 17, 48) ;
+    height: 2rem;
+    width: 8rem;
+    align-content: flex-end;
+
+}
+.row{
+    display: flex;
+    /* width: 100%; */
+}  
+.Slider{
+
+    h6{
+        font-size: 18px;
+        margin-left: 2rem;
+    }
+}  

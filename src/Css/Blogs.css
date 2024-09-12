@@ -1,0 +1,65 @@
+.blog img{
+    height: 100%;
+    width: 70%;;
+    align-items: flex-end;
+    margin-left:30%;
+}
+.imgg{
+    border-radius: 50%;
+    height: 50px;
+    margin-left: 20px;
+
+}
+.blog-head{
+    display: flex;
+
+}
+.user-name{
+    margin-left: 1rem;
+}
+.bloggs{
+    box-shadow: 1px 1px;
+    width: 38%;    
+    height: 53vh; 
+  
+}
+.blog-content{
+    padding-left: 1rem;
+    h5{
+        font-size: 30px;
+    }
+    p{
+        font-size: 17px;
+        overflow: hidden;
+    }
+}
+.user-name p{
+    display:flex ;
+    gap:1.5rem;
+    font-size: 15px;
+}
+.menuu{
+    align-items: flex-end;
+    margin-left: 14rem;
+}
+.blogss{
+    display: flex;
+    margin-top: 4rem;
+}
+.blogss hr{
+    width: 80%;
+    margin-left: 3rem;
+    margin-top: 8rem;
+}
+.blog-views {
+    margin-left: 4rem;
+    opacity: .9;
+    margin-top: -13px;
+    
+}
+.views{
+    margin-left: 10rem;
+}
+.blogs{
+    margin-bottom: 5rem;
+}

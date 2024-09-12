@@ -1,0 +1,78 @@
+.groups{
+    display: flex;
+    /* margin-top: 2rem; */
+    text-align: center;
+   
+}
+.feed h5{
+    font-size: 30px;
+    font-weight: 550;
+    margin-left: 10%;
+    margin-bottom: 2rem;
+
+}
+.join-btn{
+    width: 6rem;
+    height: 2rem;
+    margin-left:9rem ;
+    border-radius: 9px;
+    background-color: rgb(103, 247, 199);
+    border-color: rgb(103, 247, 199);
+   
+}
+.group
+{
+    /* margin-left:20%; */
+    box-shadow: 1px 1px 5px 0px #000;
+    width: 80%;
+    margin-bottom: 2rem;
+    padding: 2rem;
+}
+.groupss hr{
+ width: 80%;
+ margin-left: 2rem;
+}
+.groups span{
+    font-size: 19px;
+    padding-left: 8px;
+}
+.grps1 img{
+    height: 50px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+.grps1 span{
+    font-size: 20px;
+    margin-left: 1rem;
+}
+.share{
+   margin-left: 60%;
+    font-size: 25px;
+}
+.grps2 img{
+    height: 50vw;
+    margin-left: 2rem;
+    width: 90%;
+}
+.grps2 p{
+    font-size: 20px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+}
+.comment input{
+    width: 90%;
+    height: 3rem;
+    padding-left: 9px;
+    margin-bottom: 2rem;
+    /* margin-left: 2%; */
+    margin-left: 2rem;
+    
+}
+.suggestions h3{
+    font-size: 20px;
+    font-weight: 600;
+
+}

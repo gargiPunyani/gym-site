@@ -1,0 +1,21 @@
+.price1{
+    color: yellow;
+    font-size: 5rem;
+    text-align: center;
+    font-weight: 700;
+    margin-left: 3rem;
+}
+.price2{
+    color: yellow;
+    font-size: 5rem;
+    text-align: center;
+    font-weight: 700;
+    margin-right: 7rem;
+
+}
+.contact-header{
+    text-align: center;
+}
+.pricing{
+    background-color:rgb(103, 247, 199);
+}

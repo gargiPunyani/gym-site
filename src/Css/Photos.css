@@ -1,0 +1,44 @@
+.photos h3{
+    font-size: 35px;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 2rem;
+    margin-left: 12rem;
+}
+.photos p{
+    font-size: 20px;
+    margin-left: 12rem;
+}
+.image1{
+   margin-left: 12rem;
+   width: 76%;
+   margin-top: 2rem;
+   border-radius: 8px;
+   /* margin-bottom: .5rem; */
+}
+.images{
+    margin: 20px;
+}
+.image2{
+    width: 55%;
+    border-radius: 8px;
+    margin-left: 4%;
+}
+.image3 {
+    width: 37%;
+    border-radius: 8px;
+    margin-left: 1%;
+}
+.image4 {
+    width: 37%;
+    border-radius: 5px;
+    margin-left: 4%;
+    margin-bottom: 5rem;
+}
+
+.image5{
+    width: 55.5%;
+    border-radius: 8px;
+    margin-left: 1%;
+    margin-bottom: 5rem;
+}

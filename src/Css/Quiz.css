@@ -1,0 +1,83 @@
+.quizImage img{
+  height: 100%;
+    /* width: 110%; */
+    /* margin-left: -5rem; */
+}
+/* .quizImage{
+    width: 30%;
+} */
+.Quizz{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 4fr 9fr;
+   
+}
+.quiz{
+    /* margin-top: 2rem; */
+    margin: 2rem;
+    margin-top: 2rem;
+}
+.quiz input{
+    height: 2.9rem;
+    background-color:#ced4da57;
+    margin-top: 2px;
+    width: 18vw;
+    padding: 4px;
+    outline: none;
+    border-radius: 2px;
+    border: none;
+    margin-bottom: 1rem;
+    /* margin-left: 1rem; */
+    margin-right: 1rem;
+    
+}
+.quizForms{
+    margin-left: 8rem;
+    display: grid;
+    grid-template-columns: 4fr 4fr;
+}
+.quizCheckox label{
+    font-size: 20px;
+   margin-bottom: 5px;
+   margin-top: 3rem;
+
+}
+.quizCheckox{
+    /* justify-items:center;
+    justify-content: center; */
+    margin-bottom: 1rem;
+    /* margin-top: -14rem; */
+}
+.quizCheckox input{
+    margin-top: 1rem;
+    font-size: 20px;
+}
+.booknow{
+    outline: none;
+    border-color: rgb(103, 247, 199);
+    color: #ffffff;
+    background-color: rgb(103, 247, 199);
+    width: 10rem;
+    height: 3rem;
+    letter-spacing: .2rem;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 8px;
+    font-weight:700;
+    margin-top: 2rem;
+}
+.knowMore{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5rem;
+    margin-left: 45%;
+}
+.knowMore input{
+    height: 4vw;
+    width:20vw;
+    background-color:#ced4da57;
+    margin-top: 20px;
+    outline: none;
+    border-radius: 8px;
+    padding: 8px;
+}

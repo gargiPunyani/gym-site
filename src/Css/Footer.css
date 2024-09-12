@@ -1,0 +1,29 @@
+.footer{
+    margin-left: 57%;
+    padding-top: 3rem;
+    margin-top: 2rem;
+   
+}
+.footer-header{
+    border-top:2px solid rgb(17, 17, 48);  
+        margin-top: 2rem;
+}
+.footer input{
+    width: 25rem;
+    height: 3rem;
+    padding: 5px;
+}
+.join{
+    width: 25rem;
+    height: 3rem;
+    margin-top: 1.5rem;
+    background-color: rgb(17, 17, 48);
+    color: #fff;
+    margin-bottom: 2rem;
+
+}
+.copyright
+{
+    margin-left: 10rem;
+    margin-bottom: 3rem;
+}

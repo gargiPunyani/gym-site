@@ -1,0 +1,55 @@
+.suggestion span{
+    padding-left: 8px;
+    overflow-x: hidden;
+}
+.suggestion {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.suggestions input{
+    height: 2.5rem;
+    /* margin-top: 2rem; */
+    margin-bottom: 1rem;
+    border: none;
+    border-style: none;
+    padding-left: 7px;
+    outline: none;
+}
+.suggestions{
+    box-shadow: 1px 1px 1px 1px;
+    /* max-height: 35vw;*/
+    height: 36vw;
+    padding-left: 2rem;
+    /* overflow: overlay; */
+    /* overflow-y: scroll; */
+    width: 20vw;
+}
+.suggested{
+    top: 5.5rem;
+    position: sticky;
+}
+.suggest{
+    /* transform: translateY(20%); */
+    position: sticky;
+    overflow-y: scroll;
+    overflow-y: overlay;
+    max-height: 25vw;
+    
+
+}
+.search{
+    border: 1px solid  #000;
+    height: 3rem;
+    width: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    /* text-align: center; */
+    padding-left:6px;
+    width: 15vw;
+    position: sticky;
+    top: 2rem;
+    background-color: #fff;
+    z-index: 1;
+
+
+}

@@ -1,0 +1,47 @@
+.owner{
+    background-color:  rgb(103, 247, 199);
+    text-align: center;
+    color: rgb(17, 17, 48);
+}
+.head h1{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: .2rem;
+}
+.image img{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border: 4px solid rgb(17, 17, 48);
+    transition: transform 0.3s ease-in-out;
+}
+.image img:hover{
+    transform:scale(1.03);
+}
+.owner-sec h3{
+    font-weight: 645;
+}
+.owner-section{
+    width: 70%;
+    text-align: center;
+    margin-left: 15rem;
+    margin-top: 1.3rem;
+}
+.owner-end{
+    height: 5vh;
+}
+.headd1{
+color: yellow;
+font-size: 4rem;
+text-align: center;
+font-weight: 700;
+margin-left: 6.5rem;
+}
+.headd2{
+    color:yellow;
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 700;
+    margin-right: 4.6rem;
+}

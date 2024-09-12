@@ -1,0 +1,21 @@
+.eventImg {
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%;
+    height: 70vh;
+    margin-bottom: 1rem;
+}
+.events span{
+    margin-left: 20%;
+   margin-bottom: 1rem;
+    font-size: 20px;
+}
+.events h4{
+    margin-left: 20%;
+    font-size: 23p;
+}
+.eventss{
+    font-size: 20px;
+    opacity: .9;
+    margin-left: 20%;
+}

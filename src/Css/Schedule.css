@@ -1,0 +1,86 @@
+.schedule-head h1{
+    text-align: center;
+    font-weight: 650;
+    margin: 2rem;
+}
+.date{
+    text-align: center;
+}
+.days ul{
+    display: flex;
+    list-style: none;
+    gap: 5.2rem;
+    font-size: 25px;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    margin-left: 11rem;
+
+}
+.slikes h3{
+    margin-left: 2rem;
+    font-size: 20px;
+    margin-bottom: 2rem;
+}
+.slike1{
+    margin-left:1rem;
+}
+.slider-container{
+    border-bottom: 1px solid #000;
+    width: 70%;
+    text-align: center;
+    margin-left: 9rem;
+}
+.containers{
+    width: 70%;
+    text-align: center;
+    justify-content: center;
+    margin-left: 14rem;
+    /* display: flex; */
+ 
+}
+.schedule-details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* gap: 7rem; */
+    margin-top: 8rem;
+    /* margin-right: 1rem; */
+}
+.book{
+    color: #ffffff;
+    background-color: rgb(103, 247, 199);
+    width: 9rem;
+    height: 4rem;
+    letter-spacing: .1rem;
+    font-size: 23px;
+    text-align: center;
+    /* margin-left: 43%; */
+    border-radius: 8px;
+    border-color:  rgb(103, 247, 199);
+    font-weight:700;
+    /* margin-top: 1.5rem; */
+
+}
+.book:hover{
+    color: #000000;
+    background-color: rgb(189, 244, 226);    
+}
+
+.schedule {
+    font-size: 20px;
+    margin-top: 1rem;
+}
+.schedule{
+    border-bottom: .8px solid grey;
+
+}
+.schedule .time{
+    margin-bottom: 1rem;
+}
+.trainer{
+    opacity: .8;
+    padding-top: 1rem;
+    
+    
+}
